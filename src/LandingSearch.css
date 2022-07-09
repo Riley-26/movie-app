@@ -1,0 +1,23 @@
+.find__landing{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 64px;
+}
+
+.find__landing--title{
+    font-size: 24px;
+    color:black;
+    font-weight: 400;
+}
+
+.find__landing--sub-title{
+    font-size: 18px;
+    color:black;
+    font-weight: 400;
+}
+
+.movie-list{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
